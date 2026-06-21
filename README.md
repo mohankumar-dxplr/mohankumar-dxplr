@@ -67,52 +67,143 @@ I'm a **Junior Data Analyst** passionate about transforming raw datasets into me
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Skills & Tech Stack
+ 
+### 🐍 Programming Languages
 
-### 🐍 Programming & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R_(basic)-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
+### 🗄️ Database & Spreadsheet
 
-### 📊 Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0099cc?style=for-the-badge&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/SQL_Joins-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/CTEs-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Window_Functions-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
-### 🤖 Machine Learning & Forecasting
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ARIMA](https://img.shields.io/badge/ARIMA-Time_Series-blue?style=for-the-badge)
-![LSTM](https://img.shields.io/badge/LSTM-Deep_Learning-red?style=for-the-badge)
+### 🔬 Data Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/EDA-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Preprocessing-FFA500?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Descriptive_Statistics-6A5ACD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inferential_Statistics-6A5ACD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/A%2FB_Testing-00C49F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hypothesis_Testing-00C49F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### 📊 Data Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-0099cc?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### 🤖 Machine Learning & Deep Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LSTM-Deep_Learning-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ARIMA-Time_Series-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CNN-Image_Classification-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VGG16-Transfer_Learning-9B59B6?style=for-the-badge" />
+</p>
+
+### 🛠️ Tools & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_(basic)-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+### 🧠 Soft Skills
+
+<div align="center">
+
+| 💡 Analytical Thinking | 🔍 Attention to Detail | 🗣️ Communication | 🧩 Problem-Solving | ⏰ Time Management |
+|:---:|:---:|:---:|:---:|:---:|
+| ✅ | ✅ | ✅ | ✅ | ✅ |
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
-
-### 💱 Currency Exchange Rate Forecasting
-> **Python · LSTM · ARIMA · SVR · Random Forest**
-
-Built hybrid time series forecasting models to predict **EUR/INR** and **USD/INR** exchange rates. Benchmarked multiple model combinations — LSTM-ARIMA, LSTM-SVR, and SVR-RF — with **LSTM-SVR** delivering the best forecasting performance.
-
+ 
+### 💱 [Currency Exchange Rate Forecasting](https://github.com/mohankumar-dxplr/Currency-Exchange-Rate-Forecasting)
+> **Python · LSTM · ARIMA · SVR · Random Forest · TensorFlow · Statsmodels**
+ 
+Built hybrid time series forecasting models to predict **EUR/INR**, **USD/INR**, and **NZD/USD** exchange rates. Benchmarked LSTM-ARIMA, LSTM-SVR, and SVR-RF pipelines with full data preprocessing and feature engineering — **LSTM-SVR** delivered the best forecasting performance.
+ 
 ---
-
-### 🏨 Revenue Insights — Hospitality Domain
-> **Power BI · SQL · Excel · Python**
-
-Designed an interactive executive-level dashboard covering revenue trends, occupancy rates, customer ratings, and booking patterns. Enabled hotel leadership to make faster, insight-backed decisions through clear KPI storytelling.
-
+ 
+### 🏨 [Revenue Insights — Hospitality Domain](https://github.com/mohankumar-dxplr/Data_Analytics/tree/main/Revenue%20Insights%20in%20Hospitality%20Domain%20Report)
+> **Power BI · Python · Excel · SQL**
+ 
+Designed an interactive executive-level dashboard covering hotel **revenue trends, occupancy rates, customer ratings, and booking channel performance** using dimensional data models (date, room, booking dimensions). Delivered insight-ready PDF exports alongside the `.pbip` Power BI report for business stakeholders.
+ 
 ---
-
-### ❤️ Heart Disease Prediction
+ 
+### 🍬 [Candy Distributor Analysis](https://github.com/mohankumar-dxplr/Data_Analytics/tree/main/Candy_Distributor_Analysis)
+> **Python · Power BI · Pandas**
+ 
+End-to-end distribution analytics project including **data preprocessing, quality checks, feature engineering, and EDA** on candy sales data. Delivered a Power BI dashboard (`candy_distribution.pbix`) and a detailed markdown report highlighting distributor performance and division-level mismatches.
+ 
+---
+ 
+### 🚗 [Car Data Analysis](https://github.com/mohankumar-dxplr/Data_Analytics/tree/main/Car%20Data%20Analysis)
+> **Python · Power BI · Pandas**
+ 
+Explored pricing, fuel efficiency, brand comparisons, and market trends across a comprehensive vehicle dataset. Produced visual dashboard outputs and a structured summary report for market insight.
+ 
+---
+ 
+### 🏏 [T20 Cricket Analytics](https://github.com/mohankumar-dxplr/Data_Analytics/tree/main/T20%20CRICKET%20ANALYTICS%20REPORT)
+> **Power BI · Python · Pandas**
+ 
+Sports analytics dashboard built on **dimensional star-schema datasets** (dim/fact CSVs) covering batting, bowling, team, and match-level T20 performance metrics. Enables interactive player and team comparison through Power BI.
+ 
+---
+ 
+### ❤️ [Heart Disease Prediction](https://github.com/mohankumar-dxplr/Machine-Learning/tree/main/Heart_Disease%20Prediction)
 > **Python · Scikit-Learn · Pandas**
-
-Built end-to-end classification pipelines using **Logistic Regression**, **Decision Tree**, and **Random Forest** to predict heart disease risk from patient health indicators. Focused on interpretability alongside accuracy.
-
+ 
+Built end-to-end classification pipelines using **Logistic Regression**, **Decision Tree**, and **Random Forest** to predict heart disease risk from patient health indicators. Focused on model interpretability alongside accuracy.
+ 
+---
+ 
+### 🧠 [Deep Learning Projects](https://github.com/mohankumar-dxplr/Deep-Learning)
+> **Python · TensorFlow/Keras · OpenCV · Scikit-Learn**
+ 
+A collection of deep learning projects including **Pneumonia Detection** (CNN on medical images), **Cat vs Dog** image classification, and **Customer Churn Modeling** — covering full training pipelines, dataset preparation, and evaluation.
+ 
+---
+ 
+### 🤖 [Machine Learning Collection](https://github.com/mohankumar-dxplr/Machine-Learning)
+> **Python · Scikit-Learn · XGBoost · Pandas · Matplotlib**
+ 
+Broad ML project suite covering regression, classification, and clustering — including **Adult Salary Prediction**, **House Price Prediction**, **Laptop Price Prediction**, **Mall Customer Segmentation**, and **Granger Causality Analysis**. Features clean data pipelines and hyperparameter tuning.
+ 
+---
+ 
+### 🎯 [Recommendation System](https://github.com/mohankumar-dxplr/Recommendation-System-Exercise)
+> **Python · Scikit-Learn · Pandas · NumPy**
+ 
+Implemented multiple recommender system approaches — **IBCF, NBCF, MCRS** — using TF-IDF, Naive Bayes, similarity metrics, and matrix factorization techniques with comparative evaluation.
+ 
 ---
 
 ## 🔄 Analytics Workflow
