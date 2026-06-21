@@ -27,6 +27,33 @@ I'm a **Junior Data Analyst** passionate about transforming raw datasets into me
 - 🌱 Currently deepening expertise in **Data Warehousing**, **DAX**, and **Advanced SQL Optimization**
 
 ---
+ 
+## 💼 Work Experience
+ 
+### 🟢 Junior QA Analyst — Firebee Techno Services
+📍 Madurai, India &nbsp;|&nbsp; 🗓️ Mar 2025 – Present
+ 
+- Performed functional, regression, integration, and UAT testing in **Agile environments**, contributing to test design and improved coverage
+- Identified and documented bugs, working closely with developers to ensure timely resolution
+- Experienced with **Postman** and **Excel** for manual testing, and **Playwright with Python** for automation; familiar with SDLC and STLC
+---
+ 
+### 🔵 QA Trainee — Predart Technologies
+📍 Theni, India &nbsp;|&nbsp; 🗓️ Jun 2024 – Mar 2025
+ 
+- Developed and executed manual test cases to ensure software quality
+- Gained proficiency in **test planning**, **bug tracking**, and **defect reporting**
+- Collaborated cross-functionally to understand requirements and deliver high-quality releases
+---
+ 
+### 🟣 Data Science Intern — Shiash Info Solutions
+📍 Chennai, India &nbsp;|&nbsp; 🗓️ Dec 2023 – Apr 2024
+ 
+- Performed **machine learning modeling**, data visualization, and time series analysis
+- Developed **Django-based** data science web applications
+- Built predictive models and dashboards that improved insight delivery speed by **20%**
+
+---
 
 ## 📊 Portfolio at a Glance
 
