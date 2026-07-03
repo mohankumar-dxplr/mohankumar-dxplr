@@ -85,11 +85,7 @@ I'm a **Junior Data Analyst** passionate about transforming raw datasets into me
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/EDA-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Feature_Engineering-FFA500?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/A%2FB_Testing-00C49F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hypothesis_Testing-00C49F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Statistics-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
 </p>
 
 ### 📊 Data Visualization
@@ -97,9 +93,9 @@ I'm a **Junior Data Analyst** passionate about transforming raw datasets into me
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-0099cc?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-0099cc?style=for-the-badge" />
 </p>
 
 ### 🤖 Machine Learning & Deep Learning
@@ -107,11 +103,9 @@ I'm a **Junior Data Analyst** passionate about transforming raw datasets into me
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Regression-00C49F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Classification-2196F3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clustering-9C27B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Time_Series-FF5722?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-2C8EBB?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 ### 🛠️ Tools & Frameworks
@@ -126,8 +120,8 @@ I'm a **Junior Data Analyst** passionate about transforming raw datasets into me
 ### 🧠 Soft Skills
 
 | 💡 Analytical Thinking | 🔍 Attention to Detail | 🗣️ Communication | 🧩 Problem-Solving | ⏰ Time Management |
-|:---:|:---:|:---:|:---:|:---:|
-| ✅ | ✅ | ✅ | ✅ | ✅ |
+| :--------------------: | :--------------------: | :----------------: | :----------------: | :----------------: |
+|           ✅           |           ✅           |         ✅         |         ✅         |         ✅         |
 
 ---
 
@@ -223,7 +217,7 @@ flowchart LR
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mohankumar-dxplr&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohankumar-dxplr&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohankumar-dxplr&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -250,7 +244,7 @@ flowchart LR
 
 ## 🏅 Certifications
 
-### 📖 OnWingspan
+### 📖 Infosys Springboard
 
 | Course                                 | Date     |
 | -------------------------------------- | -------- |
