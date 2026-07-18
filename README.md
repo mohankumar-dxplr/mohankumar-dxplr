@@ -19,9 +19,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Junior Data Analyst** passionate about transforming raw datasets into meaningful insights that drive data-driven decisions across industries.
+**Data Analyst** with an **M.Sc. in Data Science** and experience building SQL-based ETL pipelines, Power BI dashboards, forecasting models, and customer analytics solutions. I've completed **3 end-to-end analytics projects using datasets exceeding 400K combined records** while applying Python, SQL, and machine learning techniques to generate business insights.
 
-- 🔍 Experienced in **SQL**, **Python**, **Power BI**, and **Machine Learning**
+- 🔍 Experienced in **SQL**, **Python**, **Power BI**, **Tableau**, and **Machine Learning**
 - 📈 Specialized in **Time Series Forecasting**, **Exploratory Data Analysis (EDA)**, **Recommendation Systems**, and **Interactive Dashboarding**
 - 🏭 Applying analytics across **Finance**, **Healthcare**, **Retail/E-commerce**, **Manufacturing**, **Sports**, and **Logistics** domains
 - 📊 Skilled at building end-to-end data pipelines — from raw data ingestion to executive-level dashboards
@@ -33,24 +33,26 @@ I'm a **Junior Data Analyst** passionate about transforming raw datasets into me
 
 ### 🟢 Junior QA Analyst — Firebee Techno Services
 📍 Madurai, India &nbsp;|&nbsp; 🗓️ Mar 2025 – May 2026
-- Performed functional, regression, integration, and UAT testing in **Agile environments**
-- Identified and documented bugs, working closely with developers to ensure timely resolution
-- Experienced with **Postman**, **Excel**, and **Playwright with Python** for test automation
+- Used **SQL queries** to validate application data integrity across functional and regression cycles
+- Analyzed defect trends to identify recurring issues and collaborated with **Agile teams** to resolve within sprint timelines
+- Automated test execution using **Python (Playwright)** and performed **API testing via Postman**
+- Created defect summary reports and tracked sprint-level quality metrics
 
 ---
 
 ### 🔵 QA Trainee — Predart Technologies
 📍 Theni, India &nbsp;|&nbsp; 🗓️ Jun 2024 – Mar 2025
-- Developed and executed manual test cases for software quality assurance
+- Designed and executed **200+ manual test cases** across 4 product releases, ensuring **95% defect-free delivery**
+- Partnered with developers and business analysts to clarify requirements and track defects to closure
 - Gained proficiency in **test planning**, **bug tracking**, and **defect reporting**
 
 ---
 
 ### 🟣 Data Science Intern — Shiash Info Solutions
 📍 Chennai, India &nbsp;|&nbsp; 🗓️ Dec 2023 – Apr 2024
-- Performed **machine learning modeling**, data visualization, and time series analysis
-- Developed predictive models and dashboards that improved insight delivery speed by **20%**
-- Built projects across stock market prediction, customer segmentation, sentiment analysis, and healthcare analytics
+- Built **regression and classification models** using Scikit-Learn for customer prediction and business analytics
+- Automated data cleaning and reporting pipelines using **Python and SQL**, improving insight delivery speed by **20%**
+- Presented analytical findings through dashboards to stakeholders and developed **Django web apps** integrating predictive models
 
 ---
 
@@ -70,11 +72,12 @@ I'm a **Junior Data Analyst** passionate about transforming raw datasets into me
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
-### 🔬 Data Analytics
+### 🔬 Data Analytics & Statistics
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/A%2FB_Testing-2C8EBB?style=for-the-badge" />
 </p>
 
 ### 📊 Data Visualization
@@ -120,17 +123,9 @@ I'm a **Junior Data Analyst** passionate about transforming raw datasets into me
 
 **Repo:** [Currency-Exchange-Rate-Forecasting](https://github.com/mohankumar-dxplr/Currency-Exchange-Rate-Forecasting)
 
-Hybrid time-series models to forecast **EUR/INR**, **USD/INR**, and **NZD/USD** exchange rates across **12 notebooks**. Benchmarked **4 hybrid approaches** (LSTM-RF, LSTM-SVR, LSTM-ARIMA, SVR-RF) on 20+ years of daily data (2002–2023). The **LSTM-RF hybrid** achieved the best performance with **R² = 0.9967** on USD/INR. Includes a published conference paper and presentation.
+Hybrid time-series models to forecast **EUR/INR**, **USD/INR**, and **NZD/USD** exchange rates across **12 notebooks**. Benchmarked **4 hybrid approaches** (LSTM-RF, LSTM-SVR, LSTM-ARIMA, SVR-RF) on 20+ years of daily data (2002–2023). The **LSTM-RF hybrid** achieved the best performance with **R² = 0.9967** on USD/INR. Includes a published conference paper and presentation at **ICAI-2024**.
 
 **Key techniques:** Two-stage hybrid framework, transfer learning, residual correction
-</details>
-
-<details>
-<summary><strong>⚡ Stock Market Prediction</strong> — Python · Statsmodels · pmdarima · scikit-learn</summary>
-
-**Repo:** [Shiash-Info-Solutions/stock_market_prediction](https://github.com/mohankumar-dxplr/Shiash-Info-Solutions/tree/main/stock_market_prediction)
-
-ARIMA and Auto-ARIMA time-series forecasting for HCL Technologies (HCLTECH) stock prices using NSE historical data from 2000. Includes stationarity testing (ADF), log transformation, differencing, and evaluation with MAE, MSE, RMSE, MAPE, and R² metrics.
 </details>
 
 ---
@@ -246,7 +241,7 @@ Executive Power BI dashboard analyzing **134,591 booking records** across **26 h
 
 **Repo:** [Data_Analytics/Candy_Distributor_Analysis](https://github.com/mohankumar-dxplr/Data_Analytics/tree/main/Candy_Distributor_Analysis)
 
-End-to-end supply chain analytics with a **versioned data pipeline (v0 → v1 → v2)** across 5 cleaning and 3 feature engineering notebooks. Delivered a Power BI dashboard on **10,189 consolidated rows** with data quality validation. Includes `requirements.txt` with **54 pinned packages**.
+End-to-end supply chain analytics with a **versioned data pipeline (v0 → v1 → v2)** across 5 cleaning and 3 feature engineering notebooks. Delivered a Power BI dashboard on **10,189 consolidated rows** with data quality validation.
 </details>
 
 <details>
@@ -320,7 +315,7 @@ A progressive series of **13 notebooks** covering TensorFlow/Keras fundamentals:
 - **RNN** for stock price and word prediction
 - **Embedding layers** for NLP sentiment analysis
 - **Keras constraints & regularizers** (NonNeg, UnitNorm, MaxNorm)
-- **Tensor manipulation** and **loss function mathematics** (Binary/Categorical/Sparse Categorical Crossentropy)
+- **Tensor manipulation** and **loss function mathematics**
 </details>
 
 <details>
@@ -373,7 +368,7 @@ Executive dashboard for **134,591 bookings** across **26 hotels** in 4 cities. R
 
 ---
 
-### NLP & Sentiment Analysis
+### 🗣️ NLP & Sentiment Analysis
 
 <details>
 <summary><strong>📝 Amazon Product Reviews Sentiment Analysis</strong> — Python · NLTK · XGBoost · 6 classifiers</summary>
@@ -424,6 +419,14 @@ flowchart LR
     E --> F[📊 Visualization]
     F --> G[💡 Business Insights]
 ```
+
+---
+
+## 🏆 Achievements
+
+- 📄 Published research paper on **Currency Exchange Rate Forecasting** at **ICAI-2024 International Conference** (LSTM-RF hybrid model with R² = 0.9967)
+- 🏢 Built analytics solutions spanning **retail, hospitality, and global development** domains handling **400K+ combined records**
+- 🥇 Ranked among the **top performers** during Data Science internship at Shiash Info Solutions
 
 ---
 
